@@ -1,1 +1,1 @@
-# beready-preparedness-app
+# BeReady - a preparedness-app
