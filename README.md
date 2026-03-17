@@ -1,39 +1,79 @@
-# BeReady – Preparedness App
+# 🚨 BeReady – Preparedness App
 
-BeReady is a mobile application designed to motivate users to increase their personal preparedness for potential crises.
+BeReady is a mobile application concept designed to help users improve their personal preparedness for potential crises and emergencies.
 
-The project was developed using a Design Thinking approach as part of a university course in Interaction Design.
+This project was developed as part of a **group assignment** in the course *Interaction Design Studio*, following a **Design Thinking methodology**.
 
-## Problem
+---
 
-Research revealed that many people acknowledge the importance of preparedness, but few take concrete actions due to lack of structure and motivation.
+## 🧩 Problem
 
-## Solution
+Research showed that many people recognize the importance of emergency preparedness, but struggle to take action.
 
-BeReady provides:
+Key challenges include:
+- Lack of structure and overview
+- Low motivation to prepare
+- Information overload and complexity
 
-- preparedness quiz
-- daily tasks and challenges
-- inventory tracking
-- emergency resources
-- gamification elements
+---
 
-## Design Process
+## 💡 Solution
 
-The project followed the Design Thinking framework:
+BeReady makes preparedness more **accessible, structured, and engaging** through:
 
-1. Empathize – survey and research
-2. Define – personas and user stories
-3. Ideate – brainstorming and sketching
-4. Prototype – high fidelity prototype in Figma
-5. Test – moderated usability testing
+- 📊 Preparedness quiz to assess current level  
+- ✅ Daily tasks and weekly challenges  
+- 📦 Inventory tracking for emergency supplies  
+- 📚 Resource library with essential information  
+- 🏆 Gamification (progress tracking, badges)  
 
-## Interactive Prototype
+The goal is to turn preparedness into something **manageable and motivating**.
 
-Figma prototype:  
-[[Link to prototype]](https://www.figma.com/proto/Ya0g9FDCTOHte4OccE5kfq/M120---Preparedness?node-id=134-2069&t=Dzhsp2yqyjAPeKXv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=289%3A677&show-proto-sidebar=1)
+---
 
-## Key Learnings
+## 🔄 Design Process
 
-This project explored how gamification and information design can motivate users to improve their preparedness in everyday life.
+The project followed the **Design Thinking framework**:
+
+### Empathize
+- Brainstorming sessions  
+- Secondary research  
+- User survey  
+- Activity theory analysis  
+
+### Define
+- Problem statement  
+- Personas  
+- User stories  
+
+### Ideate
+- Competitive analysis  
+- Concept development  
+- Sketching  
+
+### Prototype
+- Low-fidelity wireframes  
+- High-fidelity interactive prototype in Figma  
+
+### Test
+- Think-aloud usability testing  
+- Iterative improvements  
+
+---
+
+## 📱 Prototype
+
+🔗 Interactive Figma prototype:  
+[INSERT LINK HERE](https://www.figma.com/proto/Ya0g9FDCTOHte4OccE5kfq/M120---Preparedness?node-id=134-2069&t=Dzhsp2yqyjAPeKXv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=289%3A677&show-proto-sidebar=1)
+
+---
+
+## 🖼 Screenshots
+
+*(Add screenshots from your prototype here)*
+
+```markdown
+![Home Screen](design/home.png)
+![Quiz](design/quiz.png)
+
 
