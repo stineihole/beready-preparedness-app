@@ -64,7 +64,7 @@ The project followed the **Design Thinking framework**:
 ## 📱 Prototype
 
 🔗 Interactive Figma prototype:  
-[INSERT LINK HERE](https://www.figma.com/proto/Ya0g9FDCTOHte4OccE5kfq/M120---Preparedness?node-id=134-2069&t=Dzhsp2yqyjAPeKXv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=289%3A677&show-proto-sidebar=1)
+[BeReady App](https://www.figma.com/proto/Ya0g9FDCTOHte4OccE5kfq/M120---Preparedness?node-id=134-2069&t=Dzhsp2yqyjAPeKXv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=289%3A677&show-proto-sidebar=1)
 
 ---
 
