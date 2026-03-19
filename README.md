@@ -2,7 +2,7 @@
 
 BeReady is a mobile application concept designed to help users improve their personal preparedness for potential crises and emergencies.
 
-This project was developed as part of a **group assignment** in the course *Interaction Design Studio*, following a **Design Thinking methodology**.
+This project was developed as part of a **group assignment** with four other students in the course *Interaction Design Studio*, following a **Design Thinking methodology**.
 
 ---
 
